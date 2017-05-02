@@ -1,13 +1,18 @@
-Name = "MDErgo1";
+Name = "Linor";
 Layout = "Default";
 Base = "Blank";
 Version = "0.1";
-Author = "HaaTa (Jacob Alexander) 2015";
+Author = "Linor (Krijn Schaap)";
 KLL = "0.3c";
-Date = "2015-09-12";
+Date = "2017-05-02";
 Generator = "KIICONF 0.2";
 
-U"EQUALS" : flashMode();
+U"ESC" : flashMode();
+U"LALT" : ledControl( 5, 0, 0 );
+U"HOME" : ledControl( 3, 15, 0 );
+U"END" : ledControl( 4, 15, 0 );
+U"BACKTICK" : '@';
+U"FUNCTION6" : flashMode();
 U"7" : U"NUMLOCK";
 U"8" : U"P/";
 U"9" : U"P*";

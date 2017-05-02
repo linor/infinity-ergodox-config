@@ -1,10 +1,10 @@
-Name = "MDErgo1";
+Name = "Linor";
 Layout = "Default";
 Base = "Blank";
 Version = "0.1";
-Author = "HaaTa (Jacob Alexander) 2015";
+Author = "Linor (Krijn Schaap)";
 KLL = "0.3c";
-Date = "2015-09-12";
+Date = "2017-05-02";
 Generator = "KIICONF 0.2";
 
 U"ESC" : U"F11";
@@ -19,4 +19,8 @@ U"7" : U"F7";
 U"8" : U"F8";
 U"9" : U"F9";
 U"0" : U"F10";
+U"M" : U"C" + U"LCTRL";
+U"COMMA" : U"V" + U"LCTRL";
+U"PERIOD" : U"HOME";
+U"SLASH" : U"END";
 

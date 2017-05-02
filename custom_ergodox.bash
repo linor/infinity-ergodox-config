@@ -25,7 +25,7 @@ BaseMap="scancode_map leftHand slave1 rightHand"
 # This is the default layer of the keyboard
 # NOTE: To combine kll files into a single layout, separate them by spaces
 # e.g.  DefaultMap="mylayout mylayoutmod"
-DefaultMap="MDErgo1-Default-0 lcdFuncMap"
+DefaultMap="Linor-0 lcdFuncMap"
 
 # This is where you set the additional layers
 # NOTE: Indexing starts at 1
@@ -33,8 +33,8 @@ DefaultMap="MDErgo1-Default-0 lcdFuncMap"
 # e.g.  PartialMaps[1]="layer1 layer1mod"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
-PartialMaps[1]="MDErgo1-Default-1 lcdFuncMap"
-PartialMaps[2]="MDErgo1-Default-2 lcdFuncMap"
+PartialMaps[1]="Linor-1 lcdFuncMap"
+PartialMaps[2]="Linor-2 lcdFuncMap"
 
 
 
